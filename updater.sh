@@ -3,5 +3,5 @@
 cd ~/ipsender
 rm ./summaryIPs.txt
 rm ./ifconfig.txt
-git pull https://safaATcurrus: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@github.com/safaATcurrus/ipsender main
+git pull origin main
 ./ipsender.sh
