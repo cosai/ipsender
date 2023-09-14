@@ -1,6 +1,6 @@
 <date>01/01/2023 19:53:59</date>
-<wifiname>currusSystemRouter</wifiname>
-<internetIP>55.11.77.44</internetIP>
+<wifiname>exampleRouter</wifiname>
+<internetIP>1.2.3.4</internetIP>
 <ifconfig>
 <enp4s0>
 	<line>enp4s0: flags=4099<UP,BROADCAST,MULTICAST> mtu 1500</line>
